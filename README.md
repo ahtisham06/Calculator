@@ -20,5 +20,5 @@ Make sure Python is installed on your system.
 Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/ahtisham06/calculator.git
+git clone https://github.com/ahtisham06/Basic-CLI-Calculator.git
 cd calculator
